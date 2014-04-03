@@ -1,6 +1,8 @@
 /**
- * Wii-ESC NG 1.0 - 2013
- * Main program file.
+ * two_phase_ptu - 2013 by Matthew Ridley
+ * Based from wii-esc-ng 
+ *
+ * Two Phase ESC - Main program file.
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
